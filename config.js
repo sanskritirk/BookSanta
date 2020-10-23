@@ -1,7 +1,7 @@
 import * as firebase from 'firebase';
 require ('@firebase/firestore')
 
-var firebaseConfig = {
+const firebaseConfig = {
     apiKey: "AIzaSyDgaxpm3SygfHxva1r7Sad-ZicU9raSE2w",
     authDomain: "booksanta-c22ae.firebaseapp.com",
     databaseURL: "https://booksanta-c22ae.firebaseio.com",
